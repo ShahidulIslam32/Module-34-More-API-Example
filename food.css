@@ -1,0 +1,18 @@
+.abc{
+    position: relative;
+    right: -70%;
+}
+.abcd{
+   position: relative;
+   right: -5%;
+   font-size: 1.5em; 
+}
+img{
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+}
+.col img{
+    width: 310px;
+    height: 296px;
+}
